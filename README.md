@@ -15,7 +15,7 @@
 
 <a href="https://www.linkedin.com/in/pragadeesh-raju-28271951/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:pragadeeshkraju@gmail.com?" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://pragadeesh.tech" target="_blank"><img src="https://img.shields.io/badge/Website-%231ED760.svg?&style=for-the-badge&logo=Website&logoColor=white" alt="Website"></a>
+<a href="https://pragadeesh.dev" target="_blank"><img src="https://img.shields.io/badge/Website-%231ED760.svg?&style=for-the-badge&logo=Website&logoColor=white" alt="Website"></a>
 <hr>
 
 ### Happy coding!
